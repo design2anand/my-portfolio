@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { websites, mobileApps, logos, posters } from "./images";
+import { websites, mobileApps, logos, posters } from './Images'
 import {
   FaArrowAltCircleLeft,
   FaArrowAltCircleRight,
